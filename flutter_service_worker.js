@@ -31,7 +31,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/AssetManifest.json": "60b57e7462e8d454525691cb4ff866fe",
 "assets/LICENSE": "abc165bab34e09f51e423a9a4aa88c84",
-"main.dart.js": "72df67329905bcc60cc2fd7f0cdfb3f4"
+"main.dart.js": "cdeeb5dcfcde38778f1cd72c8ee08ab9"
 };
 
 self.addEventListener('activate', function (event) {
